@@ -1,0 +1,162 @@
+HTML CSSResult Skip Results Iframe
+EDIT ON
+body {
+  position: relative;
+  margin: 0;
+}
+.sect {
+  width: 60%;
+  min-height: 1000px;
+ display: flex;
+  justify-content: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+#sect1,
+#sect3 {
+  z-index:2;
+  color: #fff;
+   padding-top: -3rem;
+}
+#sect2 {
+  color: #fff;
+   z-index:2;
+   
+}
+#sect4 {
+  color: #fff;
+   z-index:2;
+}
+#sect5 {
+  color: #fff;
+   padding-top: 80rem;
+    z-index:2;
+}
+#sect6 {
+  color: #fff;
+  padding-top: 120rem;
+   z-index:2;
+}
+#sect7 {
+	
+  color: #fff;
+  padding-top: 160rem;
+   z-index:2;
+}
+#sect8 {
+  color: #fff;
+   padding-top: 200rem;
+    z-index:2;
+}
+#sect9 {
+  color: #fff;
+  padding-top: 240rem;
+   z-index:2;
+}
+#sect10 {
+	
+  color: #fff;
+  padding-top: 280rem;
+   z-index:2;
+}
+#sect11 {
+  color: #fff;
+   padding-top: 320rem;
+    z-index:2;
+}
+#sect12 {
+  color: #fff;
+   padding-top: 70rem;
+    z-index:2;
+}
+#sect13 {
+  color: #fff;
+   padding-top: 110rem;
+    z-index:2;
+}
+#sect14 {
+  color: #fff;
+   padding-top: 150rem;
+    z-index:2;
+}
+#sect15 {
+  color: #fff;
+   padding-top: 190rem;
+    z-index:2;
+}
+#sect16 {
+  color: #fff;
+   padding-top: 230rem;
+    z-index:2;
+}
+#sect17 {
+  color: #fff;
+   padding-top: 270rem; 
+   z-index:2;
+}
+#sect18 {
+	background-color: #3333337d;
+  color: #fff;
+   padding-top: 310rem;
+   z-index:-2;
+}
+#sect19 {
+	background-color: #3333337d;
+  color: #fff;
+   padding-top: 80rem;
+   z-index:-2;
+}
+#sect20 {
+	background-color: #3333337d;
+  color: #fff;
+   padding-top: 100rem;
+   z-index:-2;
+}
+#sect21 {
+	background-color: #3333337d;
+  color: #fff;
+   padding-top: 120rem;
+   z-index:-2;
+}
+
+video {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 105%;
+  min-height: 100%;
+  transform: translateX(calc((100% - 100vw) / 2));
+  z-index: -2;
+}
+img {
+  margin: 5;
+  padding-top: 15rem;
+}
+h1 {
+  margin: 5;
+  padding-top: 3rem;
+  font-size: 45px;
+}
+h3 {
+  margin: 0;
+  padding-top: 3rem;
+  padding-left: 2rem;
+  font-size: 20px;
+}
+a:link{
+	color:white;
+}
+a:visited{
+	color:white;
+}
+.salto1{
+	padding:150px;
+}
+.salto2{
+	padding:355px;
+}
+.salto3{
+	padding:1000px;
+}
